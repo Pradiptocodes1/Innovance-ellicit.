@@ -1,0 +1,590 @@
+/* Pradipto(pradiptocodes1) -- begin */
+body{
+    background-color: #FEFBF6;
+}
+.greeting{
+    position: absolute;
+width: 282px;
+height: 54px;
+left: 60px;
+top: 150px;
+
+font-family: 'Inter', sans-serif;
+font-size: 48px;
+line-height: 58px;
+color: #000000;
+
+}
+.text-1{
+    position: absolute;
+width: 402px;
+height: 32px;
+left: 60px;
+top: 280px;
+
+font-family: 'Inter', sans-serif;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+}
+.rect-1{
+    position: absolute;
+width: 120px;
+height: 7px;
+left: -1px;
+top: 245px;
+
+background: #B6E388;
+}
+.green{
+    color: #B6E388;
+}
+.Card1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 250px;
+height: 330px;
+left: 70px;
+top: 370px;
+
+background: #B6E388;
+border: 3px solid #FCFFB2;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.SubBox-1{
+    position: absolute;
+width: 205px;
+height: 170px;
+left: 20px;
+top: 20px;
+
+background: #D9D9D9;
+}
+.Name-ID{
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+line-height: 18px;
+
+color: #425F57;
+margin-top: 220px;
+text-align: center;
+
+}
+.ID1{
+    font-size: 14px; 
+}
+.SubBox-Tags{
+    width: 100px;
+height: 20px;
+background: #4C7158;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+text-align: center;
+font-family: 'Inter', sans-serif;
+font-size: 15px;
+color: #FEFBF6;
+}
+.SubBox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 22px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Card2{
+    box-sizing: border-box;
+
+position: absolute;
+width: 250px;
+height: 330px;
+left: 440px;
+top: 370px;
+
+background: #B6E388;
+border: 3px solid #FCFFB2;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.Card3{
+    box-sizing: border-box;
+
+position: absolute;
+width: 250px;
+height: 330px;
+left: 820px;
+top:370px;
+
+background: #B6E388;
+border: 3px solid #FCFFB2;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.container{
+    display: inline-block;
+}
+.Card4{
+    box-sizing: border-box;
+
+position: absolute;
+width: 250px;
+height: 330px;
+left: 1200px;
+top:370px;
+
+background: #B6E388;
+border: 3px solid #FCFFB2;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+a{
+    text-decoration: none;
+}
+.active{
+    opacity: 0.5;
+    filter: drop-shadow(0px 4px 4px rgba(41, 221, 89, 0.25));
+    border: 8px #B6E388 solid;
+}
+.HeadingAB{
+    position: absolute;
+    width: 700px;
+    height: 106px;
+    left: 66px;
+    top: 170px;
+    
+    font-family: 'Inter', sans-serif;
+    font-weight: 580;
+    font-size: 80px;
+    line-height: 77px;
+    
+    color: #000000;
+
+}
+.sub{
+
+    position: absolute;
+    width: 700px;
+    height: 28px;
+    left: 68px;
+    top: 250px;
+    
+    font-family: 'Inter', sans-serif;
+    font-weight: 50;
+    font-size: 30px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+.dot{
+    color: #B6E388;
+}
+.imgcrd{
+    width:150px;
+    height:200px;
+}
+.row1{
+    margin-top: 350px;
+    left:70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.row2{
+    margin-top: 50px;
+    left:70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.sub2{
+    position: absolute;
+    width: 700px;
+    height: 28px;
+    left: 68px;
+    top: 260px;
+    
+    font-family: 'Inter', sans-serif;
+    font-weight: 50;
+    font-size: 30px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+/*Pradipto (pradiptocodes1) --end */
+
+.logo{
+    position: absolute;
+  width: 131px;
+  height: 59px;
+  left: -15px;
+  top: 0px;
+  }
+  .heading{
+    position: absolute;
+  width: 312px;
+  height: 79px;
+  left: 579px;
+  top: 0px;
+  
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 77px;
+  
+  color: #000000;
+  }
+  .e{
+  color: #B6E388;
+  }
+  .subtit{
+    position: absolute;
+  width: 94px;
+  height: 15px;
+  left: 666px;
+  top: 96px;
+  
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 12px;
+  line-height: 15px;
+  /* identical to box height */
+  
+  
+  color: #000000;
+  }
+  .man1{
+    position: absolute;
+  width: 700px;
+  height: 530px;
+  left: 806px;
+  top: 214px;
+  background: url(photo-1599594555956-460da4769ade-removebg-preview.png);
+  mix-blend-mode: luminosity;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  }
+  .men2{
+    position: absolute;
+  width: 640px;
+  height: 338.5px;
+  left: 895px;
+  top: 404.53px;
+  
+  background: url(download-removebg-preview.png);
+  mix-blend-mode: luminosity;
+  }
+  
+  .middle_text{
+    position: absolute;
+  width: 966px;
+  height: 76px;
+  left: 166px;
+      top: 182px;
+  
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 64px;
+  line-height: 77px;
+  
+  color: #000000;
+  float: right;
+  }
+  .rect4{
+    position: absolute;
+  width: 472px;
+  height: 6px;
+  left: 0px;
+  top: 225px;
+  
+  background: #B6E388;
+  }
+  
+  .rect5{
+    position: absolute;
+    width: 357px;
+        height: 6px;
+        left: 431px;
+  top: 340px;
+  
+  background: #B6E388;
+  }
+  
+  .rect6{
+    position: absolute;
+  width: 32px;
+  height: 500px;
+      left: 862px;
+      top: 245px;
+  /* float: right; */
+  background: #B6E388;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  }
+  .btn1{
+    position: absolute;
+  width: 137px;
+  height: 36px;
+  left: 571px;
+  top: 484px;
+  
+  background: #B6E388;
+  border: 1px solid rgba(218, 153, 153, 0.7);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .btn1:hover {
+    background: #9fe35b;
+  }
+  
+
+  .logo {
+    position: absolute;
+    width: 58px;
+    height: 25px;
+    margin-left: 50px;
+    top: 32px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    /* identical to box height */
+    color: #B6E388;
+    margin: 0px;
+  }
+  .logOut {
+    position: absolute;
+    width: 51px;
+    height: 21px;
+    left: 1400px;
+    top: 46px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 12px;
+    color: #333030;
+  }
+  
+  .propic {
+    box-sizing: border-box;
+    position: absolute;
+    width: 60px;
+    height: 59px;
+    left: 1450px;
+    top: 21px;
+    /* background: #C8B0B0; */
+    /* border: 4px solid #82CD47; */
+    /* box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25); */
+  }
+  .navbar {
+    margin: 0
+    
+  }
+  .home {
+    position: absolute;
+    width: 84px;
+    height: 22px;
+    left: 545px;
+    top: 46px;
+    border: none;
+    background: #D9D9D9;
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .categories {
+    position: absolute;
+    width: 90px;
+    height: 22px;
+    left: 670px;
+    top: 46px;
+    border: none;
+    background: #B6E388;
+    font-family: 'Inter', sans-serif;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  
+  .contact {
+    position: absolute;
+    width: 84px;
+    height: 22px;
+    left: 800px;
+    top: 46px;
+    border: none;
+    font-family: 'Inter', sans-serif;
+    background: #D9D9D9;
+  }
+  
+  .button {
+    border: none;
+  }
+  .headingA {
+    position: absolute;
+    width: 70px;
+    height: 35px;
+    left: 21px;
+    top: 21px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 24px;
+    font-family: 'Inter', sans-serif;
+    /* identical to box height */
+    color: #000000;
+  }
+  .mid_text {
+    position: absolute;
+    width: 547px;
+    height: 56px;
+    left: 401px;
+    top: 90px;
+    /* font-style: normal; */
+    font-weight: 100px;
+    font-size: 48px;
+    line-height: 58px;
+    color: #000000;
+    font-family: 'Inter', sans-serif;
+  }
+  .pic1 {
+    position: absolute;
+    width: 284px;
+    height: 199px;
+    left: 124px;
+    top: 295px;
+    background: url("./Images/Piano.png");
+  }
+  
+  .pic2 {
+    position: absolute;
+    width: 284px;
+    height: 199px;
+    left: 445px;
+    top: 295px;
+    background: url("./Images/meat-bbq-vegetables-wood-wallpaper-preview\ 1.png");
+  }
+  
+  .pic3 {
+    position: absolute;
+    width: 284px;
+    height: 199px;
+    left: 780px;
+    top: 295px;
+    background: url("./Images/988057\ 1.png");
+  }
+  
+  .rect1 {
+    position: absolute;
+    width: 465px;
+    height: 8px;
+    left: 13px;
+    top: 231px;
+    background: #B6E388;
+  }
+  
+  .rect2 {
+    position: absolute;
+    width: 523px;
+    height: 8px;
+    left: 757px;
+    top: 526px;
+    background: #B6E388;
+  }
+  
+  .e {
+    color: #B6E388;
+  }
+  
+  .pic4 {
+    position: absolute;
+    width: 187px;
+    height: 30px;
+    left: 172px;
+    top: 374px;
+    background: #B6E388;
+  }
+  
+  .pic5 {
+    position: absolute;
+    width: 187px;
+    height: 30px;
+    left: 495px;
+    top: 374px;
+    background: #B6E388;
+  }
+  
+  .pic6 {
+    position: absolute;
+    width: 187px;
+    height: 30px;
+    left: 836px;
+    top: 374px;
+    background: #B6E388;
+  }
+  
+  .inst {
+    position: absolute;
+    width: 117px;
+    height: 16px;
+    left: 225px;
+    top: 379px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+  }
+  
+  .cook {
+    position: absolute;
+    width: 117px;
+    height: 16px;
+    left: 565px;
+    top: 379px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+  }
+  
+  .tech {
+    position: absolute;
+    width: 117px;
+    height: 16px;
+    left: 890px;
+    top: 379px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+  }
+  .home2{
+    position: absolute;
+    width: 84px;
+    height: 22px;
+    left: 545px;
+    top: 46px;
+    border: none;
+    background: #B6E388;
+    font-family: 'Inter', sans-serif;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+.categories2{
+    position: absolute;
+    width: 90px;
+    height: 22px;
+    left: 670px;
+    top: 46px;
+    border: none;
+    background: #D9D9D9;
+    font-family: 'Inter', sans-serif;
+}
