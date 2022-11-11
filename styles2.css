@@ -1,4 +1,6 @@
-
+body{
+  background-color: #FEFBF6;
+}
 .rect1a{
 
   position: absolute;
@@ -121,6 +123,66 @@ left: 500px;
   position: absolute;
   width: 105px;
   height: 86px;
-  left: 1410px;
+  margin-left: 92.5%;
   top: 305px;
+}
+.UserTags{
+  position: absolute;
+  width: 352.97px;
+  height: 24.53px;
+  left: 700px;
+  top: 304px;
+  }
+.maketags{
+position: absolute;
+width: 199.97px;
+height: 24.53px;
+left: 1000px;
+top: 304px;
+}
+.rect5a{
+  position: absolute;
+  width: 223px;
+height: 59px;
+left: 891px;
+top: 434px;
+}
+.rect4a{
+position: absolute;
+width: 199.97px;
+height: 24.53px;
+left: 550px;
+top: 478px;
+}
+.count{
+  position: absolute;
+  width: 273.6px;
+  height: 25.4px;
+  left: 490px;
+  top: 430px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 39px;
+  
+  color: #000000;
+  
+
+}
+.lilpen{
+  position: absolute;
+width: 19px;
+height: 23px;
+left: 850px;
+top: 575px;
+background: url(pengr.png);
+}
+.last2a{
+  position: absolute;
+  width: 655px;
+height: 566px;
+top: 838px;
+left: 500px;
 }
