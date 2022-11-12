@@ -480,6 +480,7 @@ a {
 	font-family: "Inter", sans-serif;
 	background: #d9d9d9;
 }
+
 .contact {
 	position: absolute;
 	width: 84px;
@@ -688,3 +689,4 @@ a {
 .contact2 {
 	cursor: pointer;
 
+}
