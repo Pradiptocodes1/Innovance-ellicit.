@@ -688,5 +688,106 @@ a {
 
 .contact2 {
 	cursor: pointer;
+}
+.contact3 {
+	position: absolute;
+	width: 84px;
+	height: 22px;
+	left: 800px;
+	top: 46px;
+	border: none;
+	background-color: #b6e388;
+	font-family: "Inter", sans-serif;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.categories3 {
+	position: absolute;
+	width: 90px;
+	height: 22px;
+	left: 670px;
+	top: 46px;
+	border: none;
+	background: #d9d9d9;
+	font-family: "Inter", sans-serif;
+}
+.Context1{
+	position: absolute;
+width: 547px;
+height: 56px;
+left: 500px;
+top: 210px;
 
+font-family: 'Inter',sans-serif;
+font-weight: 200;
+font-size: 56px;
+line-height: 58px;
+
+color: #000000;
+
+}
+.Pradipto{
+	position: absolute;
+width: 218px;
+height: 75px;
+left: 111px;
+top: 435px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 45px;
+line-height: 44px;
+
+color: #000000;
+}
+.suby{
+	
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 25px;
+line-height: 17px;
+
+color: #B0A8A8;
+}
+.Satvik{
+	position: absolute;
+width: 218px;
+height: 75px;
+left: 630px;
+top: 435px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 45px;
+line-height: 44px;
+
+color: #000000;
+}
+.Vinay{
+		position: absolute;
+	width: 218px;
+	height: 75px;
+	left: 1100px;
+	top: 435px;
+	
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 200;
+	font-size: 45px;
+	line-height: 44px;
+	
+	color: #000000;
+}
+a {
+	text-decoration: none;
+}
+.precontext1{
+margin-left: 350px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 15px;
+line-height: 18px;
 }
