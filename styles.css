@@ -467,6 +467,16 @@ a {
 	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
+.contact2 {
+	position: absolute;
+	width: 84px;
+	height: 22px;
+	left: 800px;
+	top: 46px;
+	border: none;
+	font-family: "Inter", sans-serif;
+	background: #d9d9d9;
+}
 .contact {
 	position: absolute;
 	width: 84px;
@@ -674,4 +684,4 @@ a {
 
 .contact2 {
 	cursor: pointer;
-}
+
