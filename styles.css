@@ -2,6 +2,7 @@
 body {
 	background-color: #fefbf6;
 }
+
 .greeting {
 	position: absolute;
 	width: 282px;
@@ -14,6 +15,7 @@ body {
 	line-height: 58px;
 	color: #000000;
 }
+
 .text-1 {
 	position: absolute;
 	width: 402px;
@@ -27,6 +29,7 @@ body {
 
 	color: #000000;
 }
+
 .rect-1 {
 	position: absolute;
 	width: 120px;
@@ -36,9 +39,11 @@ body {
 
 	background: #b6e388;
 }
+
 .green {
 	color: #b6e388;
 }
+
 .Card1 {
 	box-sizing: border-box;
 
@@ -53,6 +58,7 @@ body {
 	box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
 	filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
+
 .SubBox-1 {
 	position: absolute;
 	width: 205px;
@@ -62,6 +68,7 @@ body {
 
 	background: #d9d9d9;
 }
+
 .Name-ID {
 	font-family: "Inter", sans-serif;
 	font-size: 20px;
@@ -71,9 +78,11 @@ body {
 	margin-top: 220px;
 	text-align: center;
 }
+
 .ID1 {
 	font-size: 14px;
 }
+
 .SubBox-Tags {
 	width: 100px;
 	height: 20px;
@@ -84,17 +93,20 @@ body {
 	font-size: 15px;
 	color: #fefbf6;
 }
+
 .SubBox {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
 	margin-top: 22px;
 }
+
 .container {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
 }
+
 .Card2 {
 	box-sizing: border-box;
 
@@ -109,6 +121,7 @@ body {
 	box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
 	filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
+
 .Card3 {
 	box-sizing: border-box;
 
@@ -123,9 +136,11 @@ body {
 	box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
 	filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
+
 .container {
 	display: inline-block;
 }
+
 .Card4 {
 	box-sizing: border-box;
 
@@ -140,14 +155,17 @@ body {
 	box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
 	filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
+
 a {
 	text-decoration: none;
 }
+
 .active {
 	opacity: 0.5;
 	filter: drop-shadow(0px 4px 4px rgba(41, 221, 89, 0.25));
 	border: 8px #b6e388 solid;
 }
+
 .HeadingAB {
 	position: absolute;
 	width: 700px;
@@ -162,6 +180,7 @@ a {
 
 	color: #000000;
 }
+
 .sub {
 	position: absolute;
 	width: 700px;
@@ -176,13 +195,16 @@ a {
 
 	color: #000000;
 }
+
 .dot {
 	color: #b6e388;
 }
+
 .imgcrd {
 	width: 150px;
 	height: 200px;
 }
+
 .row1 {
 	margin-top: 350px;
 	left: 70px;
@@ -190,6 +212,7 @@ a {
 	flex-direction: row;
 	justify-content: space-around;
 }
+
 .row2 {
 	margin-top: 50px;
 	left: 70px;
@@ -197,6 +220,7 @@ a {
 	flex-direction: row;
 	justify-content: space-around;
 }
+
 .sub2 {
 	position: absolute;
 	width: 700px;
@@ -211,6 +235,7 @@ a {
 
 	color: #000000;
 }
+
 /*Pradipto (pradiptocodes1) --end */
 
 .logo1 {
@@ -220,23 +245,27 @@ a {
 	left: -15px;
 	top: 0px;
 }
+
 .heading {
 	font-family: "Inter", sans-serif;
 	font-weight: 800;
 	font-size: 64px;
 	line-height: 77px;
-	text-align: center; /*text align change*/
+	text-align: center;
+	/*text align change*/
 
 	color: #000000;
 }
+
 .e {
 	color: #b6e388;
 }
+
 .subtit {
 	position: absolute;
 	width: 94px;
 	height: 15px;
-	left: 776px;
+	left: 812px;
 	top: 96px;
 	font-family: "Inter", sans-serif;
 	font-style: normal;
@@ -247,33 +276,39 @@ a {
 
 	color: #000000;
 }
+
 .man1 {
 	position: absolute;
 	width: 700px;
-	height: 510px; /*changed these values*/
-	left: 806px;
+	height: 510px;
+	/*changed these values*/
+	left: 827px;
 	top: 214px;
 	background: url(photo-1599594555956-460da4769ade-removebg-preview.png);
 	mix-blend-mode: luminosity;
 	filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
+
 .men2 {
 	position: absolute;
-	width: 600px; /*changed these values*/
+	width: 600px;
+	/*changed these values*/
 	height: 300px;
-	left: 895px;
+	left: 919px;
 	top: 404.53px;
 
 	background: url(download-removebg-preview.png);
 	mix-blend-mode: luminosity;
 	border: 8px #b6e388 solid;
 }
+
 .ImagesB {
 	margin-top: 50%;
 	margin-left: 20%;
 	width: 37%;
 	height: 300px;
 }
+
 .supplinfo1 {
 	margin-top: 20%;
 	margin-left: 10%;
@@ -283,9 +318,11 @@ a {
 	z-index: -1;
 	color: #d9d9d9;
 }
+
 .e1 {
 	color: #b6e388;
 }
+
 .supplinfo2 {
 	position: absolute;
 	margin-top: 45%;
@@ -312,9 +349,10 @@ a {
 	color: #000000;
 	float: right;
 }
+
 .rect4 {
 	position: absolute;
-	width: 472px;
+	width: 457px;
 	height: 6px;
 	left: 0px;
 	top: 225px;
@@ -324,9 +362,9 @@ a {
 
 .rect5 {
 	position: absolute;
-	width: 357px;
+	width: 351px;
 	height: 6px;
-	left: 431px;
+	left: 449px;
 	top: 340px;
 
 	background: #b6e388;
@@ -335,23 +373,26 @@ a {
 .rect6 {
 	position: absolute;
 	width: 32px;
-	height: 100%;
+	height: 620px;
 	left: 862px;
 	top: 245px;
 	/* float: right; */
 	background: #b6e388;
 	transform: matrix(-1, 0, 0, 1, 0, 0);
 }
+
 .btn1 {
 	position: absolute;
 	width: 137px;
 	height: 36px;
-	margin-left: 47.4%; /*Changed these*/
+	margin-left: 47.4%;
+	/*Changed these*/
 	margin-top: -40%;
 	background: #b6e388;
 	border: none;
 	font-family: "Inter", "sans-serif";
 }
+
 .btn1:hover {
 	background: #9fe35b;
 	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -372,6 +413,7 @@ a {
 	color: #b6e388;
 	margin: 0px;
 }
+
 .logOut {
 	position: absolute;
 	width: 51px;
@@ -397,9 +439,11 @@ a {
 	/* border: 4px solid #82CD47; */
 	/* box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25); */
 }
+
 .navbar {
 	margin: 0;
 }
+
 .home {
 	position: absolute;
 	width: 84px;
@@ -447,6 +491,7 @@ a {
 .button {
 	border: none;
 }
+
 .headingA {
 	position: absolute;
 	width: 70px;
@@ -461,6 +506,7 @@ a {
 	/* identical to box height */
 	color: #000000;
 }
+
 .mid_text {
 	position: absolute;
 	width: 547px;
@@ -474,6 +520,7 @@ a {
 	color: #000000;
 	font-family: "Inter", sans-serif;
 }
+
 .pic1 {
 	position: absolute;
 	width: 284px;
@@ -591,6 +638,7 @@ a {
 	line-height: 18px;
 	color: #000000;
 }
+
 .home2 {
 	position: absolute;
 	width: 84px;
@@ -602,6 +650,7 @@ a {
 	font-family: "Inter", sans-serif;
 	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
+
 .categories2 {
 	position: absolute;
 	width: 90px;
@@ -612,6 +661,7 @@ a {
 	background: #d9d9d9;
 	font-family: "Inter", sans-serif;
 }
+
 .home {
 	cursor: pointer;
 }
@@ -623,6 +673,7 @@ a {
 .contact {
 	cursor: pointer;
 }
+
 .home2 {
 	cursor: pointer;
 }
@@ -633,4 +684,4 @@ a {
 
 .contact2 {
 	cursor: pointer;
-}
+
