@@ -236,9 +236,9 @@ a {
 	position: absolute;
 	width: 94px;
 	height: 15px;
-	left: 776px;
-
+	left: 666px;
 	top: 96px;
+
 	font-family: "Inter", sans-serif;
 	font-style: normal;
 	font-weight: 200;
@@ -602,10 +602,4 @@ a {
 	border: none;
 	background: #d9d9d9;
 	font-family: "Inter", sans-serif;
-}
-
-.guitar {
-	width: 555px;
-	height: 300px;
-	border: 10px solid #b6e388;
 }

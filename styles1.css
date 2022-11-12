@@ -99,3 +99,61 @@ background: #F5F5F5;
 border: 1px solid #FCFFB2;
 box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
+.green{
+  color: #B6E388;
+}
+.VerHeader{
+  position: absolute;
+width: 175px;
+height: 107px;
+left: 82px;
+top: 61px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+.datalistA{
+  position: absolute;
+  top: 180px;
+  left: 108px;
+}
+option{
+  font-family: 'Inter', sans-serif;
+}
+.Choose1{
+  font-family: 'Inter',sans-serif;
+  font-size: 12px;
+  position: absolute;
+  top: 150px;
+  left: 100px;
+}
+.yellow{
+  background-color: yellow;
+}
+.datalistB{
+  position: absolute;
+  top: 270px;
+  left: 108px;
+}
+.Choose2{
+  font-family: 'Inter',sans-serif;
+  font-size: 12px;
+  position: absolute;
+  top: 240px;
+  left: 60px;
+}
+.backbtn2{
+  position: absolute;
+  width: 105px;
+  height: 86px;
+  margin-left: 86.7%;
+  top: 305px;
+}
+.backbtn2:hover{
+  color: #F5F5F5;
+}
