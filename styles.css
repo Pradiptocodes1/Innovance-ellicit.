@@ -383,11 +383,13 @@ a {
 
 .btn1 {
 	position: absolute;
-	width: 137px;
-	height: 36px;
+	width: 153px;
+	height: 49px;
+	left: 441px;
+	top: 771px;
+	font-size: 16px;
 	margin-left: 47.4%;
 	/*Changed these*/
-	margin-top: -40%;
 	background: #b6e388;
 	border: none;
 	font-family: "Inter", "sans-serif";
@@ -396,6 +398,7 @@ a {
 .btn1:hover {
 	background: #9fe35b;
 	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	cursor: pointer;
 }
 
 .logo {

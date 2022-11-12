@@ -1,159 +1,179 @@
-body{
+body {
   background: #E1FFB1
 }
-.frm1{
+
+.frm1 {
   /* margin: auto; */
   position: relative;
-width: 323px;
-height: 425px;
-left: 37%;
-top: 86px;
-font-family: 'Inter', sans-serif;
+  width: 323px;
+  height: 425px;
+  left: 37%;
+  top: 86px;
+  font-family: 'Inter', sans-serif;
 
-background: #FFFFFF;
-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
-img{
-  position: absolute;
-width: 131px;
-height: 59px;
-left: 96px;
-top: 10px;
-}
-h1{
-  position: absolute;
-width: 120px;
-height: 37px;
-left: 112px;
-top: 76px;
-font-family: 'Inter', sans-serif;
-font-style: normal;
-font-weight: 200;
-font-size: 32px;
-line-height: 39px;
 
-color: #000000;
-}
-.id{
-
-position: absolute;
-width: 132px;
-height: 21px;
-left: 54px;
-top: 147px;
-font-family: 'Inter', sans-serif;
-font-style: normal;
-font-weight: 200;
-font-size: 14px;
-line-height: 17px;
-
-color: #000000;
-}
-.box1{
+img {
   position: absolute;
-width: 215px;
-height: 29px;
-left: 54px;
-top: 178px;
-font-family: 'Inter', sans-serif;
-background: #F5F5F5;
-border: 1px solid #FCFFB2;
-box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 131px;
+  height: 59px;
+  left: 96px;
+  top: 10px;
 }
-.btn{
+
+h1 {
   position: absolute;
-width: 75px;
-height: 22px;
-left: 194px;
-top: 365px;
-border: none;
-font-family: 'Inter', sans-serif;
-background: #B6E388;
+  width: 120px;
+  height: 37px;
+  left: 112px;
+  top: 76px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 32px;
+  line-height: 39px;
+
+  color: #000000;
 }
-.btn:hover{
+
+.id {
+
+  position: absolute;
+  width: 132px;
+  height: 21px;
+  left: 54px;
+  top: 147px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #000000;
+}
+
+.box1 {
+  position: absolute;
+  width: 215px;
+  height: 29px;
+  left: 54px;
+  top: 178px;
+  font-family: 'Inter', sans-serif;
+  background: #F5F5F5;
+  border: 1px solid #FCFFB2;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.btn {
+  position: absolute;
+  width: 75px;
+  height: 22px;
+  left: 194px;
+  top: 365px;
+  border: none;
+  font-family: 'Inter', sans-serif;
+  background: #B6E388;
+}
+
+.btn:hover {
   background: #9fe35b;
+  cursor: pointer;
 }
-.pass{
-  position: absolute;
-width: 132px;
-height: 21px;
-left: 53px;
-top: 262px;
 
-font-family: 'Inter', sans-serif;
-font-style: normal;
-font-weight: 200;
-font-size: 14px;
-line-height: 17px;
-
-color: #000000;
-}
-.box2{
+.pass {
   position: absolute;
-width: 215px;
-height: 29px;
-left: 54px;
-top: 294px;
-font-family: 'Inter', sans-serif;
-background: #F5F5F5;
-border: 1px solid #FCFFB2;
-box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 132px;
+  height: 21px;
+  left: 53px;
+  top: 262px;
+
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #000000;
 }
-.green{
+
+.box2 {
+  position: absolute;
+  width: 215px;
+  height: 29px;
+  left: 54px;
+  top: 294px;
+  font-family: 'Inter', sans-serif;
+  background: #F5F5F5;
+  border: 1px solid #FCFFB2;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.green {
   color: #B6E388;
 }
-.VerHeader{
+
+.VerHeader {
   position: absolute;
-width: 175px;
-height: 107px;
-left: 82px;
-top: 61px;
+  width: 175px;
+  height: 107px;
+  left: 82px;
+  top: 61px;
 
-font-family: 'Inter';
-font-style: normal;
-font-weight: 200;
-font-size: 24px;
-line-height: 29px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 24px;
+  line-height: 29px;
 
-color: #000000;
+  color: #000000;
 }
-.datalistA{
+
+.datalistA {
   position: absolute;
   top: 180px;
   left: 108px;
 }
-option{
+
+option {
   font-family: 'Inter', sans-serif;
 }
-.Choose1{
-  font-family: 'Inter',sans-serif;
+
+.Choose1 {
+  font-family: 'Inter', sans-serif;
   font-size: 12px;
   position: absolute;
   top: 150px;
   left: 100px;
 }
-.yellow{
+
+.yellow {
   background-color: yellow;
 }
-.datalistB{
+
+.datalistB {
   position: absolute;
   top: 270px;
   left: 108px;
 }
-.Choose2{
-  font-family: 'Inter',sans-serif;
+
+.Choose2 {
+  font-family: 'Inter', sans-serif;
   font-size: 12px;
   position: absolute;
   top: 240px;
   left: 60px;
 }
-.backbtn2{
+
+.backbtn2 {
   position: absolute;
   width: 105px;
   height: 86px;
   margin-left: 86.7%;
   top: 305px;
 }
-.backbtn2:hover{
+
+.backbtn2:hover {
   color: #F5F5F5;
 }
