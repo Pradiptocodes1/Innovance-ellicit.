@@ -3,7 +3,7 @@ The Project has been possible by immense contributions and builds by the team me
 
 Member 1-----
 B.Vinay Kumar
-Roll - 21051913
+Roll - 21051806
 github - https://github.com/Vinay1126
 
 Built following pages-
@@ -13,8 +13,8 @@ User Page
 Contributed to styles.css,styles1.css,styles2.css
 
 Member 2-----
-Satvik Aggarwal
-21053869
+Satvik Agrawal
+21052869
 github - https://github.com/SatvikAgrawal04
 
 Built following pages-
